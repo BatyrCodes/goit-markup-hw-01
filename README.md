@@ -2,10 +2,15 @@
 This is a simple one-page HTML layout for WebStudio, created without any styles or JavaScript. It features the basic structure of a landing page, including:
 
 Navigation menu
+
 Contact information
+
 Hero section with a headline and call-to-action button
+
 Information section outlining company values
+
 Team section with employee images and roles
+
 Footer with a business description
 
 index.html
