@@ -15,10 +15,10 @@ Footer with a business description
 
 index.html
 /images/
-  mark-guerrero.jpg
-  tom-ford.jpg
-  camila-garcia.jpg
-  daniel-wilson.jpg
+ # mark-guerrero.jpg
+ # tom-ford.jpg
+ # camila-garcia.jpg
+ # daniel-wilson.jpg
 
 
 💡 Technologies Used:
