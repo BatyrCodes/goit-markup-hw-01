@@ -1,29 +1,40 @@
-📄 Project: WebStudio (HTML Layout)
-This is a simple one-page HTML layout for WebStudio, created without any styles or JavaScript. It features the basic structure of a landing page, including:
+# WebStudio - HTML Layout
 
-Navigation menu
+A simple and clean one-page HTML layout for the **WebStudio** website. This project includes the basic semantic structure of a business landing page, built using only HTML5 (no CSS or JavaScript).
 
-Contact information
+## 🔍 Preview
 
-Hero section with a headline and call-to-action button
+The page contains the following sections:
 
-Information section outlining company values
+- **Header with navigation and contacts**
+- **Hero section** with a main headline and call-to-action button
+- **Features section** describing the company’s values (Strategy, Punctuality, Diligence, Technologies)
+- **Team section** with images and roles of four team members
+- **Footer** with a short company description
 
-Team section with employee images and roles
-
-Footer with a business description
-
-index.html
-/images/
- # mark-guerrero.jpg
- # tom-ford.jpg
- # camila-garcia.jpg
- # daniel-wilson.jpg
+## 📁 Folder Structure
 
 
-💡 Technologies Used:
-Pure HTML5
+## 💡 Technologies Used
 
-Semantic structure (<header>, <main>, <section>, <footer>)
-📌 Purpose:
-Starter template for a portfolio project or practice layout for learning HTML.
+- HTML5 (semantic tags)
+- No CSS or JavaScript (basic layout only)
+
+## 🚀 Usage
+
+To preview the page:
+
+1. Clone or download this repository
+2. Open `index.html` in any web browser
+
+## 📌 Purpose
+
+This template can be used as a starter for:
+
+- Practicing HTML structure and semantic layout
+- Future integration with CSS and JavaScript
+- Basic portfolio or landing page mockups
+
+---
+
+Feel free to customize and extend it as needed!
